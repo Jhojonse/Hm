@@ -2,7 +2,7 @@ from requests import post
 from multiprocessing.pool import ThreadPool
 import random, hashlib
 print("\tCODED BY jhon")
-print("\t       Hidayatul Wahya")
+print("\t       Jhojonse")
 print("\t  Limit 20 per-nomor ya mas!")
 print("Mau Unlimited? Bayar ya gayn hehehe")
 print("WhatsApp : 085747240635")
@@ -43,8 +43,8 @@ def main(arg):
 #	print(req.text)
 	st='success'
 	if st in req.text:
-		print("bund udah..!")
-	else: print("bundaa ndak boleh marah lagi.... ")
+		print("bund udah,hppy birthday 🥰..!")
+	else: print("bundaa ndak boleh marah lagi😢... ")
 
 tol = []
 for x in range(jm):
